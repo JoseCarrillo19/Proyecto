@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\bin\Debug\net6.0\CleanArchitecture.ConsoleApp.exe
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\bin\Debug\net6.0\CleanArchitecture.ConsoleApp.deps.json
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\bin\Debug\net6.0\CleanArchitecture.ConsoleApp.runtimeconfig.json
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\bin\Debug\net6.0\CleanArchitecture.ConsoleApp.dll
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\bin\Debug\net6.0\CleanArchitecture.ConsoleApp.pdb
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\CleanArchitecture.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\CleanArchitecture.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\CleanArchitecture.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\CleanArchitecture.ConsoleApp.AssemblyInfo.cs
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\CleanArchitecture.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\CleanArchitecture.ConsoleApp.dll
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\refint\CleanArchitecture.ConsoleApp.dll
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\CleanArchitecture.ConsoleApp.pdb
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\CleanArchitecture.ConsoleApp.genruntimeconfig.cache
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\ref\CleanArchitecture.ConsoleApp.dll
