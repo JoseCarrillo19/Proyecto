@@ -694,6 +694,19 @@
           }
         }
       },
+      "CleanArchitecture.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CleanArchitecture.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArchitecture.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArchitecture.Application.dll": {}
+        }
+      },
       "CleanArchitecture.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2017,6 +2030,11 @@
         "version.txt"
       ]
     },
+    "CleanArchitecture.Application/1.0.0": {
+      "type": "project",
+      "path": "../CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+      "msbuildProject": "../CleanArchitecture.Application/CleanArchitecture.Application.csproj"
+    },
     "CleanArchitecture.Domain/1.0.0": {
       "type": "project",
       "path": "../CleanArchitecture.Domain/CleanArchitecture.Domain.csproj",
@@ -2025,7 +2043,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "CleanArchitecture.Domain >= 1.0.0",
+      "CleanArchitecture.Application >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.3"
     ]
@@ -2038,9 +2056,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ProyectoEstudio\\CleanArchitecture\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
-      "projectName": "CleanArchitecture.Data",
-      "projectPath": "C:\\Users\\user\\source\\repos\\ProyectoEstudio\\CleanArchitecture\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ProyectoEstudio\\CleanArchitecture\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
+      "projectName": "CleanArchitecture.Infrastructure",
+      "projectPath": "C:\\Users\\user\\source\\repos\\ProyectoEstudio\\CleanArchitecture\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\source\\repos\\ProyectoEstudio\\CleanArchitecture\\CleanArchitecture.Data\\obj\\",
       "projectStyle": "PackageReference",
@@ -2065,8 +2083,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\ProyectoEstudio\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\ProyectoEstudio\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+            "C:\\Users\\user\\source\\repos\\ProyectoEstudio\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\ProyectoEstudio\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
             }
           }
         }

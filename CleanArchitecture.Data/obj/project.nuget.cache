@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UXTj+Kheu6W7HXrOjAmPZmKAS/2FKM+ISslRORYFlFdwY8nURl7CFC5ZfYKBmIkXHsHlqESn3cKNuEX/YjyxMg==",
+  "dgSpecHash": "HaaRKkcjOeL7i1fgCYp5I+XwxtLxqRnwIxSDu0N/Z77VMNXdiTEu3SX6iTrlI/mOpSvgM5N/pyKvJSRBJoPMdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\ProyectoEstudio\\CleanArchitecture\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ProyectoEstudio\\CleanArchitecture\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.3\\microsoft.aspnetcore.cryptography.internal.6.0.3.nupkg.sha512",
