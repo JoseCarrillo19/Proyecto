@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1GbIZjLdC+k3nL8J7SZ1w9BPfIAvc+lr8rpOhhx2PlY5X2Zu6Ou/VojOUGE7HnY2Foxi5BeAAyu2Zkf7rZhI6w==",
+  "dgSpecHash": "BXcr6Wz2ckVWrt8mKhtANKSe44ckL2+KkrEjp74cwD59fF+DacNykKCxzgJW6rWr2H1iaujihZztQ4HrWWEcsw==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\source\\repos\\ProyectoEstudio\\CleanArchitecture\\CleanArchitecture.API\\CleanArchitecture.API.csproj",
   "expectedPackageFiles": [
@@ -31,7 +31,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.3\\microsoft.extensions.identity.core.6.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.3\\microsoft.extensions.identity.stores.6.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.identity.client\\4.21.1\\microsoft.identity.client.4.21.1.nupkg.sha512",
