@@ -1,11 +1,11 @@
 ﻿
+using CleanArchitecture.Domain.Common;
 using System.ComponentModel.DataAnnotations;
 
 namespace CleanArchitecture.Domain
 {
-    public class Libro
+    public class Libro : BaseDomainModel
     {
-        public int Id { get; set; }
         [Required]
         [StringLength(maximumLength: 250)]
         public string Titulo { get; set; }
