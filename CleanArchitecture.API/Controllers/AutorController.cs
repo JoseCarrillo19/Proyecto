@@ -2,6 +2,7 @@
 using CleanArchitecture.Application.Features.Autores.Commands.DeleteAutor;
 using CleanArchitecture.Application.Features.Autores.Commands.UpdateAutor;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 
@@ -9,6 +10,7 @@ namespace CleanArchitecture.API.Controllers
 {
     [ApiController]
     [Route("api/v1/[controller]")]
+    [Authorize(Roles = "Administrador")]
     public class AutorController : ControllerBase
     {
         private readonly IMediator _mediator;

@@ -81,3 +81,6 @@ C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.A
 C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\StarkbankEcdsa.dll
 C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\Humanizer.dll
 C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\CleanArchitecture.Identity.dll
+C:\Users\user\source\repos\ProyectoEstudio\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\CleanArchitecture.Identity.pdb
